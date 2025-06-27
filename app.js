@@ -75,30 +75,3 @@ function reiniciarJogo(){
     ExibirMsgInicial();
     document.getElementById('reiniciar').setAttribute('disabled',true);
 }
-
-
-
-
-////////////////// atividades /////////////////////
-
-// let titulo = document.querySelector('h1');
-// titulo.innerHTML = 'Hora do Desafio';
-
-// function exibirMensagemNoConsole() {
-//     console.log('O botão foi clicado!')
-// }
-
-// function exibirAlerta(){
-//     alert('Eu amo Js');
-// }
-
-// function exibirPrompt(){
-//     let cidade = prompt('Digite o nome da cidade')
-//     alert(`Estive em ${cidade} e lembrei de você!`)
-// }
-
-// function somandoDoisNumeros(){
-//     let num1 = parseInt(prompt('Digite o primeiro número'));
-//     let num2 = parseInt(prompt('Digite o segundo número'));
-//     alert(`${num1} + ${num2} = ${num1 + num2}`);
-// }
